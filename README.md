@@ -25,6 +25,6 @@ ou
 
  Clone o repositório:  
    ```bash
-   git clone https://github.com/seuusuario/malphas-token-injector.git
+   git clone https://github.com/cannibaleater/malphas-token-injector.git
    cd malphas-token-injector
 
