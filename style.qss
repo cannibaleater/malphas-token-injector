@@ -1,0 +1,27 @@
+QMainWindow {
+    background-color: #1a1a28;
+}
+
+QLineEdit, QTextEdit {
+    background-color: #10101a;
+    color: #b0b0ff;
+    border: 1px solid #2a2a3f;
+    padding: 6px;
+    font-family: Consolas;
+}
+
+QPushButton {
+    background-color: #7f7fad;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+}
+
+QPushButton:hover {
+    background-color: #9b9bcf;
+}
+
+QTextEdit {
+    font-family: Consolas;
+    font-size: 12px;
+}
